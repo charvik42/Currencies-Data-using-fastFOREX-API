@@ -10,9 +10,10 @@ Plots USD → INR, EUR → INR, and GBP → INR on the same graph.
 ## Requirements
 
 Install the dependencies:
-pip install requests matplotlib
+`pip install requests matplotlib`
 
 ## API Setup
 
 Sign up for a free API key at FastForex
 Replace "YOUR_API_KEY" in the notebook with your actual key.
+
